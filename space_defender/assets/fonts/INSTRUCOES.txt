@@ -1,0 +1,6 @@
+Para usar uma fonte personalizada:
+1. Baixe uma fonte .ttf (ex: PressStart2P.ttf)
+2. Renomeie para 'pixel_font.ttf'
+3. Coloque nesta pasta
+
+O jogo funcionará com fonte padrão se não encontrar este arquivo.
